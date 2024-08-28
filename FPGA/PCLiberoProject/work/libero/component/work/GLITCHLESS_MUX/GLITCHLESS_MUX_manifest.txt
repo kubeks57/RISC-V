@@ -1,0 +1,18 @@
+Microchip Technology Inc. - Microchip Libero Software Release v2024.1 (Version 2024.1.0.3)
+
+Date      :  Sat Aug 10 20:24:41 2024
+Project   :  /home/student/gateware_projects/gateware/work/libero
+Component :  GLITCHLESS_MUX
+Family    :  PolarFireSoC
+
+
+HDL source files for all Synthesis and Simulation tools:
+    /home/student/gateware_projects/gateware/work/libero/component/work/GLITCHLESS_MUX/GLITCHLESS_MUX_0/GLITCHLESS_MUX_GLITCHLESS_MUX_0_PF_NGMUX.v
+    /home/student/gateware_projects/gateware/work/libero/component/work/GLITCHLESS_MUX/GLITCHLESS_MUX.v
+
+HDL source files for Synopsys SynplifyPro Synthesis tool:
+    /home/student/gateware_projects/gateware/work/libero/component/Actel/SgCore/PF_NGMUX/1.0.101/ICB_NGMUX_syn_comps.v
+
+HDL source files for Mentor Precision Synthesis tool:
+    /home/student/gateware_projects/gateware/work/libero/component/Actel/SgCore/PF_NGMUX/1.0.101/ICB_NGMUX_pre_comps.v
+

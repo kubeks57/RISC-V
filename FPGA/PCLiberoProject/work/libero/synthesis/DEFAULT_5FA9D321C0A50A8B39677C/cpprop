@@ -1,0 +1,9 @@
+n work DEFAULT_5FA9D321C0A50A8B39677C verilog;
+av .compile_point_summary_status "Mapped";
+av .compile_point_summary_reason "No database";
+av .compile_point_update_model 0;
+av .compile_point_fast_synthesis "No";
+av .compile_point_cputime_used 37.3993;
+av .compile_point_starttime_stamp "Sat Aug 10 20:25:48 2024";
+av .compile_point_endtime_stamp "Sat Aug 10 20:26:25 2024";
+av .compile_point_realtime_used 37.1611;

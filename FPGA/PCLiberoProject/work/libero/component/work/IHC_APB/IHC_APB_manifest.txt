@@ -1,0 +1,29 @@
+Microchip Technology Inc. - Microchip Libero Software Release v2024.1 (Version 2024.1.0.3)
+
+Date      :  Sat Aug 10 20:24:46 2024
+Project   :  /home/student/gateware_projects/gateware/work/libero
+Component :  IHC_APB
+Family    :  PolarFireSoC
+
+
+HDL source files for all Synthesis and Simulation tools:
+    /home/student/gateware_projects/gateware/work/libero/component/Actel/DirectCore/CoreAPB3/4.2.100/rtl/vlog/core/coreapb3.v
+    /home/student/gateware_projects/gateware/work/libero/component/Actel/DirectCore/CoreAPB3/4.2.100/rtl/vlog/core/coreapb3_muxptob3.v
+    /home/student/gateware_projects/gateware/work/libero/component/Actel/DirectCore/CoreAPB3/4.2.100/rtl/vlog/core/coreapb3_iaddr_reg.v
+    /home/student/gateware_projects/gateware/work/libero/component/work/IHC_APB/IHC_APB.v
+
+Stimulus files for all Simulation tools:
+    /home/student/gateware_projects/gateware/work/libero/component/Actel/DirectCore/CoreAPB3/4.2.100/mti/scripts/wave_user.do
+    /home/student/gateware_projects/gateware/work/libero/component/Actel/DirectCore/CoreAPB3/4.2.100/mti/scripts/bfmtovec_compile.tcl
+    /home/student/gateware_projects/gateware/work/libero/component/Actel/DirectCore/CoreAPB3/4.2.100/mti/scripts/bfmtovec.exe
+    /home/student/gateware_projects/gateware/work/libero/component/Actel/DirectCore/CoreAPB3/4.2.100/mti/scripts/bfmtovec.lin
+    /home/student/gateware_projects/gateware/work/libero/component/Actel/DirectCore/CoreAPB3/4.2.100/mti/scripts/coreapb3_usertb_master.bfm
+
+    /home/student/gateware_projects/gateware/work/libero/component/Actel/DirectCore/CoreAPB3/4.2.100/coreparameters.v
+    /home/student/gateware_projects/gateware/work/libero/component/Actel/DirectCore/CoreAPB3/4.2.100/rtl/vlog/amba_bfm/bfm_main.v
+    /home/student/gateware_projects/gateware/work/libero/component/Actel/DirectCore/CoreAPB3/4.2.100/rtl/vlog/amba_bfm/bfm_ahbtoapb.v
+    /home/student/gateware_projects/gateware/work/libero/component/Actel/DirectCore/CoreAPB3/4.2.100/rtl/vlog/amba_bfm/bfm_apb.v
+    /home/student/gateware_projects/gateware/work/libero/component/Actel/DirectCore/CoreAPB3/4.2.100/rtl/vlog/amba_bfm/bfm_apbslaveext.v
+    /home/student/gateware_projects/gateware/work/libero/component/Actel/DirectCore/CoreAPB3/4.2.100/rtl/vlog/amba_bfm/bfm_apbslave.v
+    /home/student/gateware_projects/gateware/work/libero/component/Actel/DirectCore/CoreAPB3/4.2.100/rtl/vlog/test/user/testbench.v
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SynplifyOutput>
+	<result>Success</result>
+	<design>DEFAULT_5FA9D321C0A50A8B39677C</design>
+	<target_verilog>/home/student/gateware_projects/gateware/work/libero/synthesis/DEFAULT_5FA9D321C0A50A8B39677C.vm</target_verilog>
+</SynplifyOutput>

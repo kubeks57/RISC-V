@@ -1,0 +1,14 @@
+Microchip Technology Inc. - Microchip Libero Software Release v2024.1 (Version 2024.1.0.3)
+
+Date      :  Sat Aug 10 20:24:41 2024
+Project   :  /home/student/gateware_projects/gateware/work/libero
+Component :  CLK_DIV
+Family    :  PolarFireSoC
+
+
+HDL source files for all Synthesis and Simulation tools:
+    /home/student/gateware_projects/gateware/work/libero/component/work/CLK_DIV/CLK_DIV_0/CLK_DIV_CLK_DIV_0_PF_CLK_DIV.v
+    /home/student/gateware_projects/gateware/work/libero/component/work/CLK_DIV/CLK_DIV.v
+
+Constraint files:
+    /home/student/gateware_projects/gateware/work/libero/component/work/CLK_DIV/CLK_DIV_0/CLK_DIV_CLK_DIV_0_PF_CLK_DIV.sdc

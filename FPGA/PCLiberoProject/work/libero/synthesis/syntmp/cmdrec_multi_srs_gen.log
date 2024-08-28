@@ -1,0 +1,8 @@
+/home/student/Microchip/Libero_SoC_v2024.1/SynplifyPro/bin/syn_nfilter  -link  -top  DEFAULT_5FA9D321C0A50A8B39677C  -multisrs  /home/student/gateware_projects/gateware/work/libero/synthesis/synwork/DEFAULT_5FA9D321C0A50A8B39677C_comp.srs  -osyn  /home/student/gateware_projects/gateware/work/libero/synthesis/synwork/DEFAULT_5FA9D321C0A50A8B39677C_mult.srs  -log  /home/student/gateware_projects/gateware/work/libero/synthesis/synlog/DEFAULT_5FA9D321C0A50A8B39677C_multi_srs_gen.srr 
+relcom:../../../../../../Microchip/Libero_SoC_v2024.1/SynplifyPro/bin/syn_nfilter -link -top DEFAULT_5FA9D321C0A50A8B39677C -multisrs ../synwork/DEFAULT_5FA9D321C0A50A8B39677C_comp.srs -osyn ../synwork/DEFAULT_5FA9D321C0A50A8B39677C_mult.srs -log ../synlog/DEFAULT_5FA9D321C0A50A8B39677C_multi_srs_gen.srr
+rc:0 success:1 runtime:1
+file:../synwork/DEFAULT_5FA9D321C0A50A8B39677C_comp.srs|io:i|time:1723317923|size:1292165|exec:0|csum:73A9E9DD0C1B09161529B1E498694772
+file:../synwork/DEFAULT_5FA9D321C0A50A8B39677C_mult.srs|io:o|time:1723317925|size:24430|exec:0|csum:
+file:../synlog/DEFAULT_5FA9D321C0A50A8B39677C_multi_srs_gen.srr|io:o|time:1723317925|size:6515|exec:0|csum:
+file:../../../../../../Microchip/Libero_SoC_v2024.1/SynplifyPro/linux_a_64/syn_nfilter|io:i|time:1704385587|size:18297968|exec:1|csum:56C4D3F9F9569243A8752F354AB51E25
+file:../../../../../../Microchip/Libero_SoC_v2024.1/SynplifyPro/bin/syn_nfilter|io:i|time:1704385234|size:368|exec:1|csum:004E4455B64BA10AD6A92FB2301610E0

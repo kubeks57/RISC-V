@@ -1,0 +1,17 @@
+Software Version: 2024.1.0.3
+Opened '/home/student/gateware_projects/gateware/work/libero/designer/DEFAULT_5FA9D321C0A50A8B39677C/DEFAULT_5FA9D321C0A50A8B39677C_fp/DEFAULT_5FA9D321C0A50A8B39677C.pro'
+PDB file '/home/student/gateware_projects/gateware/work/libero/designer/DEFAULT_5FA9D321C0A50A8B39677C/DEFAULT_5FA9D321C0A50A8B39677C.pdb' has been loaded successfully.
+DESIGN : DEFAULT_5FA9D321C0A50A8B39677C;  CHECKSUM : 7DB8;  PDB_VERSION : 1.9
+Info: Programming Interface selected is JTAG.
+Info: Design version will be programmed to 2004 with this bitstream.
+Successfully generated bitstream file and it has been added to the job container; file programs Fabric, sNVM and eNVM.
+BITS component bitstream digest: 743c84a51bb8f09c698540b2227ead42bbe263b008451c7bc9a18da54c0d78e5
+Fabric component bitstream digest: 0dbdf76fb4f69153c6074fae44f5faac6af1ce92df99cbabc03ce13bd5fbaaeb
+eNVM component bitstream digest: f13f22863e6417eea49fd7925886a0c7b09d9d9cf802da56ffbe8e4c5c16b498
+sNVM component bitstream digest: 4b1bcaff234b852f6f42e45f7003218570781aca3ed96830eb09fb37ef814b42
+EOB component bitstream digest: 6520615f98f6a047f2641a9aeaaae40dc8598885dff557500df67999c863eed3
+Entire bitstream digest: 83a7af22c03b7760708736631c0cb20ec1d72872b5918dab6058389a4757eb00
+Finished: Sat Aug 10 20:33:16 2024 (Elapsed time 00:00:12)
+
+Project saved.
+Project closed.

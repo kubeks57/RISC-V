@@ -1,0 +1,136 @@
+FFT size: 1024
+Average FFT time: 4.073e-05 seconds.
+Average peak memory usage: 3028 kilobytes
+Estimated number of complex multiplications on data: 5120
+Estimated number of complex additions on data: 10240
+Estimated total number of real operations on data: 51200
+Estimated energy consumption per FFT run: 0.000458213 joules/ 1.27281e-07 watt-hours.
+
+FFT size: 2048
+Average FFT time: 8.208e-05 seconds.
+Average peak memory usage: 3724 kilobytes
+Estimated number of complex multiplications on data: 11264
+Estimated number of complex additions on data: 22528
+Estimated total number of real operations on data: 112640
+Estimated energy consumption per FFT run: 0.0009234 joules/ 2.565e-07 watt-hours.
+
+FFT size: 4096
+Average FFT time: 0.00024273 seconds.
+Average peak memory usage: 3780 kilobytes
+Estimated number of complex multiplications on data: 24576
+Estimated number of complex additions on data: 49152
+Estimated total number of real operations on data: 245760
+Estimated energy consumption per FFT run: 0.00273071 joules/ 7.58531e-07 watt-hours.
+
+FFT size: 8192
+Average FFT time: 0.0005661 seconds.
+Average peak memory usage: 3780 kilobytes
+Estimated number of complex multiplications on data: 53248
+Estimated number of complex additions on data: 106496
+Estimated total number of real operations on data: 532480
+Estimated energy consumption per FFT run: 0.00636863 joules/ 1.76906e-06 watt-hours.
+
+FFT size: 16384
+Average FFT time: 0.00113806 seconds.
+Average peak memory usage: 4152 kilobytes
+Estimated number of complex multiplications on data: 114688
+Estimated number of complex additions on data: 229376
+Estimated total number of real operations on data: 1146880
+Estimated energy consumption per FFT run: 0.0128032 joules/ 3.55644e-06 watt-hours.
+
+FFT size: 32768
+Average FFT time: 0.00192106 seconds.
+Average peak memory usage: 4872 kilobytes
+Estimated number of complex multiplications on data: 245760
+Estimated number of complex additions on data: 491520
+Estimated total number of real operations on data: 2457600
+Estimated energy consumption per FFT run: 0.0216119 joules/ 6.00331e-06 watt-hours.
+
+FFT size: 65536
+Average FFT time: 0.00329192 seconds.
+Average peak memory usage: 6052 kilobytes
+Estimated number of complex multiplications on data: 524288
+Estimated number of complex additions on data: 1048576
+Estimated total number of real operations on data: 5242880
+Estimated energy consumption per FFT run: 0.0370341 joules/ 1.02873e-05 watt-hours.
+
+FFT size: 131072
+Average FFT time: 0.00748621 seconds.
+Average peak memory usage: 8668 kilobytes
+Estimated number of complex multiplications on data: 1114112
+Estimated number of complex additions on data: 2228224
+Estimated total number of real operations on data: 11141120
+Estimated energy consumption per FFT run: 0.0842199 joules/ 2.33944e-05 watt-hours.
+
+FFT size: 262144
+Average FFT time: 0.0170769 seconds.
+Average peak memory usage: 13832 kilobytes
+Estimated number of complex multiplications on data: 2359296
+Estimated number of complex additions on data: 4718592
+Estimated total number of real operations on data: 23592960
+Estimated energy consumption per FFT run: 0.192115 joules/ 5.33654e-05 watt-hours.
+
+FFT size: 524288
+Average FFT time: 0.0713235 seconds.
+Average peak memory usage: 24092 kilobytes
+Estimated number of complex multiplications on data: 4980736
+Estimated number of complex additions on data: 9961472
+Estimated total number of real operations on data: 49807360
+Estimated energy consumption per FFT run: 0.802389 joules/ 0.000222886 watt-hours.
+
+FFT size: 1048576
+Average FFT time: 0.241109 seconds.
+Average peak memory usage: 44544 kilobytes
+Estimated number of complex multiplications on data: 10485760
+Estimated number of complex additions on data: 20971520
+Estimated total number of real operations on data: 104857600
+Estimated energy consumption per FFT run: 2.71247 joules/ 0.000753465 watt-hours.
+
+FFT size: 2097152
+Average FFT time: 0.555115 seconds.
+Average peak memory usage: 85448 kilobytes
+Estimated number of complex multiplications on data: 22020096
+Estimated number of complex additions on data: 44040192
+Estimated total number of real operations on data: 220200960
+Estimated energy consumption per FFT run: 6.24504 joules/ 0.00173473 watt-hours.
+
+FFT size: 4194304
+Average FFT time: 1.28648 seconds.
+Average peak memory usage: 151012 kilobytes
+Estimated number of complex multiplications on data: 46137344
+Estimated number of complex additions on data: 92274688
+Estimated total number of real operations on data: 461373440
+Estimated energy consumption per FFT run: 14.4729 joules/ 0.00402026 watt-hours.
+
+FFT size: 8388608
+Average FFT time: 2.80168 seconds.
+Average peak memory usage: 314764 kilobytes
+Estimated number of complex multiplications on data: 96468992
+Estimated number of complex additions on data: 192937984
+Estimated total number of real operations on data: 964689920
+Estimated energy consumption per FFT run: 31.5189 joules/ 0.00875525 watt-hours.
+
+FFT size: 16777216
+Average FFT time: 4.66378 seconds.
+Average peak memory usage: 609756 kilobytes
+Estimated number of complex multiplications on data: 201326592
+Estimated number of complex additions on data: 402653184
+Estimated total number of real operations on data: 2013265920
+Estimated energy consumption per FFT run: 52.4676 joules/ 0.0145743 watt-hours.
+
+FFT size: 33554432
+Average FFT time: 10.6184 seconds.
+Average peak memory usage: 1199740 kilobytes
+Estimated number of complex multiplications on data: 419430400
+Estimated number of complex additions on data: 838860800
+Estimated total number of real operations on data: 4194304000
+Estimated energy consumption per FFT run: 119.458 joules/ 0.0331827 watt-hours.
+
+FFT size: 67108864
+Average FFT time: 24.163 seconds.
+Average peak memory usage: 2379180 kilobytes
+Estimated number of complex multiplications on data: 872415232
+Estimated number of complex additions on data: 1744830464
+Estimated total number of real operations on data: 8724152320
+Estimated energy consumption per FFT run: 271.834 joules/ 0.0755094 watt-hours.
+

@@ -1,0 +1,93 @@
+INFO: Reading User SDC file /home/student/gateware_projects/gateware/work/libero/constraint/DEFAULT_5FA9D321C0A50A8B39677C_derived_constraints.sdc.
+INFO: Reading User SDC file /home/student/gateware_projects/gateware/work/libero/constraint/fic_clocks.sdc.
+INFO: The option "Abort flow if errors are found in SDC" is turned ON in Project Settings> Design flow page. The Place & Route tool will fail if errors are found in associated SDC files. Please uncheck the option to ignore the errors and continue running the tool.
+
+No errors or warnings found.
+INFO: The option "Abort flow if errors are found in PDC" is turned ON in Project Settings> Design flow page. The Place & Route tool will fail if errors are found in associated PDC files. Please uncheck the option to ignore the errors and continue running the tool
+***** Place and Route Configurations *****
+Timing-driven            : ON
+Power-driven             : OFF
+I/O Register Combining   : OFF
+Global Pins Demotion     : ON
+Driver Replication       : OFF
+High-effort              : OFF
+Repair min-delay         : OFF
+Incremental              : OFF
+Inter-clock optimization : ON
+
+INFO: Reading User PDC file /home/student/gateware_projects/gateware/work/libero/constraint/io/base_design.pdc. 0 error(s) and 0 warning(s)
+INFO: Reading User PDC file /home/student/gateware_projects/gateware/work/libero/constraint/io/cape.pdc. 0 error(s) and 0 warning(s)
+INFO: Reading User PDC file /home/student/gateware_projects/gateware/work/libero/constraint/io/M2.pdc. 0 error(s) and 0 warning(s)
+INFO: Reading User PDC file /home/student/gateware_projects/gateware/work/libero/constraint/io/SYZYGY.pdc. 0 error(s) and 0 warning(s)
+INFO: Reading User PDC file /home/student/gateware_projects/gateware/work/libero/constraint/io/MIPI_CSI_INTERFACE.pdc. 0 error(s) and 0 warning(s)
+INFO: Reading User PDC file /home/student/gateware_projects/gateware/work/libero/constraint/fp/NW_PLL.pdc. 0 error(s) and 0 warning(s)
+INFO: Reading User PDC file /home/student/gateware_projects/gateware/work/libero/constraint/fp/SYZYGY.pdc. 0 error(s) and 0 warning(s)
+
+ Running Timing based Global Demotion.
+        Moved all 1112 async pins from global to its source 'M2_INTERFACE_0/FIC1_INITIATOR/FIC_1_INITIATOR_0/arst_aclk_sync/sysReset'.
+        Moved all 1020 async pins from global to its source 'M2_INTERFACE_0/PCIE_INITIATOR_inst_0/PCIE_INITIATOR_0/arst_aclk_sync/sysReset'.
+
+ Timing based Global Demotion completed successfully.
+
+Running the I/O Bank and Globals Assigner.
+Info:  I/O Bank and Globals Assigner identified 91 fixed I/O macros, 0 unfixed I/O macros
+Info:  I/O Bank and Globals Assigner identified bank 'Bank1' as being fixed at VCCI:3.30V VCCR:n/a
+Info:  I/O Bank and Globals Assigner detected (1) out of (5) I/O Bank(s) with locked I/O technologies.
+
+I/O Bank and Globals Assigner completed successfully.
+Total time spent in I/O Bank and Globals Assigner: 2 seconds
+
+Placer V5.0 - 2024.1.0
+Design: DEFAULT_5FA9D321C0A50A8B39677C  Started: Sat Aug 10 20:28:08 2024
+
+Initializing Normal-Effort Timing-Driven Placement ...
+Clustering ...
+Placing ...
+Improving placement ...
+End of placement.
+
+Placer Runtime Summary   :
+Clustering (1 pass)      : 4 seconds
+Placement                : 12 seconds
+Improvement              : 31 seconds
+
+Placer completed successfully.
+
+Design: DEFAULT_5FA9D321C0A50A8B39677C
+Finished: Sat Aug 10 20:29:32 2024
+Total CPU Time:     00:01:35            Total Elapsed Time: 00:01:24
+Total Memory Usage: 1152.3 Mbytes
+                        o - o - o - o - o - o
+
+
+Router
+Design: DEFAULT_5FA9D321C0A50A8B39677C  Started: Sat Aug 10 20:29:47 2024
+
+
+Router completed successfully.
+
+Design: DEFAULT_5FA9D321C0A50A8B39677C
+Finished: Sat Aug 10 20:29:56 2024
+Total CPU Time:     00:00:10            Total Elapsed Time: 00:00:09
+Total Memory Usage: 773.0 Mbytes
+                        o - o - o - o - o - o
+
+Resource Usage
++---------------+------+-------+------------+
+| Type          | Used | Total | Percentage |
++---------------+------+-------+------------+
+| 4LUT          | 6150 | 22956 | 26.79      |
+| DFF           | 6806 | 22956 | 29.65      |
+| I/O Register  | 0    | 108   | 0.00       |
+| Logic Element | 8606 | 22956 | 37.49      |
++---------------+------+-------+------------+
+
+I/O Placement
++--------+-------+------------+
+| Type   | Count | Percentage |
++--------+-------+------------+
+| Locked |  81   | 100.00%    |
+| Placed |  0    | 0.00%      |
++--------+-------+------------+
+
+Completed writing pin report files.

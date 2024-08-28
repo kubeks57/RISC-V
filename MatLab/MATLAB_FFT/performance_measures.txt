@@ -1,0 +1,85 @@
+FFT size: 1024
+Average FFT time: 0.000073 seconds.
+Average peak memory usage: 4947132.800000 kilobytes
+Estimated energy consumption per FFT run: 0.000824 joules / 0.000000 watt-hours.
+
+FFT size: 2048
+Average FFT time: 0.000084 seconds.
+Average peak memory usage: 4947440.000000 kilobytes
+Estimated energy consumption per FFT run: 0.000946 joules / 0.000000 watt-hours.
+
+FFT size: 4096
+Average FFT time: 0.000110 seconds.
+Average peak memory usage: 4947440.000000 kilobytes
+Estimated energy consumption per FFT run: 0.001240 joules / 0.000000 watt-hours.
+
+FFT size: 8192
+Average FFT time: 0.000164 seconds.
+Average peak memory usage: 4947440.000000 kilobytes
+Estimated energy consumption per FFT run: 0.001847 joules / 0.000001 watt-hours.
+
+FFT size: 16384
+Average FFT time: 0.000265 seconds.
+Average peak memory usage: 4947440.000000 kilobytes
+Estimated energy consumption per FFT run: 0.002978 joules / 0.000001 watt-hours.
+
+FFT size: 32768
+Average FFT time: 0.000469 seconds.
+Average peak memory usage: 4947440.000000 kilobytes
+Estimated energy consumption per FFT run: 0.005280 joules / 0.000001 watt-hours.
+
+FFT size: 65536
+Average FFT time: 0.001101 seconds.
+Average peak memory usage: 4948468.000000 kilobytes
+Estimated energy consumption per FFT run: 0.012390 joules / 0.000003 watt-hours.
+
+FFT size: 131072
+Average FFT time: 0.002054 seconds.
+Average peak memory usage: 4950520.000000 kilobytes
+Estimated energy consumption per FFT run: 0.023112 joules / 0.000006 watt-hours.
+
+FFT size: 262144
+Average FFT time: 0.003939 seconds.
+Average peak memory usage: 4953592.000000 kilobytes
+Estimated energy consumption per FFT run: 0.044319 joules / 0.000012 watt-hours.
+
+FFT size: 524288
+Average FFT time: 0.009799 seconds.
+Average peak memory usage: 4963480.000000 kilobytes
+Estimated energy consumption per FFT run: 0.110242 joules / 0.000031 watt-hours.
+
+FFT size: 1048576
+Average FFT time: 0.029423 seconds.
+Average peak memory usage: 4980792.000000 kilobytes
+Estimated energy consumption per FFT run: 0.331013 joules / 0.000092 watt-hours.
+
+FFT size: 2097152
+Average FFT time: 0.037719 seconds.
+Average peak memory usage: 5014174.400000 kilobytes
+Estimated energy consumption per FFT run: 0.424344 joules / 0.000118 watt-hours.
+
+FFT size: 4194304
+Average FFT time: 0.082929 seconds.
+Average peak memory usage: 5080836.800000 kilobytes
+Estimated energy consumption per FFT run: 0.932953 joules / 0.000259 watt-hours.
+
+FFT size: 8388608
+Average FFT time: 0.194684 seconds.
+Average peak memory usage: 5181052.000000 kilobytes
+Estimated energy consumption per FFT run: 2.190197 joules / 0.000608 watt-hours.
+
+FFT size: 16777216
+Average FFT time: 0.465109 seconds.
+Average peak memory usage: 5377250.000000 kilobytes
+Estimated energy consumption per FFT run: 5.232477 joules / 0.001453 watt-hours.
+
+FFT size: 33554432
+Average FFT time: 0.875385 seconds.
+Average peak memory usage: 5770261.600000 kilobytes
+Estimated energy consumption per FFT run: 9.848082 joules / 0.002736 watt-hours.
+
+FFT size: 67108864
+Average FFT time: 1.955199 seconds.
+Average peak memory usage: 6557321.600000 kilobytes
+Estimated energy consumption per FFT run: 21.995993 joules / 0.006110 watt-hours.
+

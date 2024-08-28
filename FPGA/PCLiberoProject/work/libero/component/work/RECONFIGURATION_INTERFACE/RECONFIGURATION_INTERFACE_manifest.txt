@@ -1,0 +1,12 @@
+Microchip Technology Inc. - Microchip Libero Software Release v2024.1 (Version 2024.1.0.3)
+
+Date      :  Sat Aug 10 20:24:54 2024
+Project   :  /home/student/gateware_projects/gateware/work/libero
+Component :  RECONFIGURATION_INTERFACE
+Family    :  PolarFireSoC
+
+
+HDL source files for all Synthesis and Simulation tools:
+    /home/student/gateware_projects/gateware/work/libero/component/work/RECONFIGURATION_INTERFACE/RECONFIGURATION_INTERFACE_0/RECONFIGURATION_INTERFACE_RECONFIGURATION_INTERFACE_0_PF_DRI.v
+    /home/student/gateware_projects/gateware/work/libero/component/work/RECONFIGURATION_INTERFACE/RECONFIGURATION_INTERFACE.v
+

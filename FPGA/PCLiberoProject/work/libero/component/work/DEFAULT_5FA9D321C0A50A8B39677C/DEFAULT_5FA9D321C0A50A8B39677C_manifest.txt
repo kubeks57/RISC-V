@@ -1,0 +1,11 @@
+Microchip Technology Inc. - Microchip Libero Software Release v2024.1 (Version 2024.1.0.3)
+
+Date      :  Sat Aug 10 20:25:00 2024
+Project   :  /home/student/gateware_projects/gateware/work/libero
+Component :  DEFAULT_5FA9D321C0A50A8B39677C
+Family    :  PolarFireSoC
+
+
+HDL source files for all Synthesis and Simulation tools:
+    /home/student/gateware_projects/gateware/work/libero/component/work/DEFAULT_5FA9D321C0A50A8B39677C/DEFAULT_5FA9D321C0A50A8B39677C.v
+

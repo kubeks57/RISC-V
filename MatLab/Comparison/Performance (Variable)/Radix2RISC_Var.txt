@@ -1,0 +1,120 @@
+FFT size: 1024
+Average FFT time: 0.0004396 seconds.
+Average peak memory usage: 2604 kilobytes
+Estimated number of complex multiplications on data: 5120
+Estimated number of complex additions on data: 10240
+Estimated total number of real operations on data: 51200
+Estimated energy consumption per FFT run: 0.000458213 joules/ 6.11e-08 watt-hours.
+
+FFT size: 2048
+Average FFT time: 0.0010983 seconds.
+Average peak memory usage: 2604 kilobytes
+Estimated number of complex multiplications on data: 11264
+Estimated number of complex additions on data: 22528
+Estimated total number of real operations on data: 112640
+Estimated energy consumption per FFT run: 0.0009234 joules/ 1.53e-07 watt-hours.
+
+FFT size: 4096
+Average FFT time: 0.0035397 seconds.
+Average peak memory usage: 3044 kilobytes
+Estimated number of complex multiplications on data: 24576
+Estimated number of complex additions on data: 49152
+Estimated total number of real operations on data: 245760
+Estimated energy consumption per FFT run: 0.00273071 joules/ 4.92e-07 watt-hours.
+
+FFT size: 8192
+Average FFT time: 0.0083997 seconds.
+Average peak memory usage: 3044 kilobytes
+Estimated number of complex multiplications on data: 53248
+Estimated number of complex additions on data: 106496
+Estimated total number of real operations on data: 532480
+Estimated energy consumption per FFT run: 0.00636863 joules/ 1.17e-06 watt-hours.
+
+FFT size: 16384
+Average FFT time: 0.0191456 seconds.
+Average peak memory usage: 3420 kilobytes
+Estimated number of complex multiplications on data: 114688
+Estimated number of complex additions on data: 229376
+Estimated total number of real operations on data: 1146880
+Estimated energy consumption per FFT run: 0.0128032 joules/ 2.66e-06 watt-hours.
+
+FFT size: 32768
+Average FFT time: 0.0460569 seconds.
+Average peak memory usage: 4140 kilobytes
+Estimated number of complex multiplications on data: 245760
+Estimated number of complex additions on data: 491520
+Estimated total number of real operations on data: 2457600
+Estimated energy consumption per FFT run: 0.0216119 joules/ 6.40e-06 watt-hours.
+
+FFT size: 65536
+Average FFT time: 0.158393 seconds.
+Average peak memory usage: 5316 kilobytes
+Estimated number of complex multiplications on data: 524288
+Estimated number of complex additions on data: 1048576
+Estimated total number of real operations on data: 5242880
+Estimated energy consumption per FFT run: 0.0370341 joules/ 2.20e-05 watt-hours.
+
+FFT size: 131072
+Average FFT time: 0.53328 seconds.
+Average peak memory usage: 7932 kilobytes
+Estimated number of complex multiplications on data: 1114112
+Estimated number of complex additions on data: 2228224
+Estimated total number of real operations on data: 11141120
+Estimated energy consumption per FFT run: 0.0842199 joules/ 7.41e-05 watt-hours.
+
+FFT size: 262144
+Average FFT time: 1.32906 seconds.
+Average peak memory usage: 13164 kilobytes
+Estimated number of complex multiplications on data: 2359296
+Estimated number of complex additions on data: 4718592
+Estimated total number of real operations on data: 23592960
+Estimated energy consumption per FFT run: 0.192115 joules/ 0.000184591 watt-hours.
+
+FFT size: 524288
+Average FFT time: 3.05083 seconds.
+Average peak memory usage: 23364 kilobytes
+Estimated number of complex multiplications on data: 4980736
+Estimated number of complex additions on data: 9961472
+Estimated total number of real operations on data: 49807360
+Estimated energy consumption per FFT run: 0.802389 joules/ 0.000423727 watt-hours.
+
+FFT size: 1048576
+Average FFT time: 6.80012 seconds.
+Average peak memory usage: 43764 kilobytes
+Estimated number of complex multiplications on data: 10485760
+Estimated number of complex additions on data: 20971520
+Estimated total number of real operations on data: 104857600
+Estimated energy consumption per FFT run: 2.71247 joules/ 0.000944462 watt-hours.
+
+FFT size: 2097152
+Average FFT time: 14.8888 seconds.
+Average peak memory usage: 84828 kilobytes
+Estimated number of complex multiplications on data: 22020096
+Estimated number of complex additions on data: 44040192
+Estimated total number of real operations on data: 220200960
+Estimated energy consumption per FFT run: 6.24504 joules/ 0.00206789 watt-hours.
+
+FFT size: 4194304
+Average FFT time: 30.9524 seconds.
+Average peak memory usage: 150184 kilobytes
+Estimated number of complex multiplications on data: 46137344
+Estimated number of complex additions on data: 92274688
+Estimated total number of real operations on data: 461373440
+Estimated energy consumption per FFT run: 14.4729 joules/ 0.00429894 watt-hours.
+
+FFT size: 8388608
+Average FFT time: 67.4217 seconds.
+Average peak memory usage: 314048 kilobytes
+Estimated number of complex multiplications on data: 96468992
+Estimated number of complex additions on data: 192937984
+Estimated total number of real operations on data: 964689920
+Estimated energy consumption per FFT run: 31.5189 joules/ 0.00936413 watt-hours.
+
+FFT size: 16777216
+Average FFT time: 144.154 seconds.
+Average peak memory usage: 609000 kilobytes
+Estimated number of complex multiplications on data: 201326592
+Estimated number of complex additions on data: 402653184
+Estimated total number of real operations on data: 2013265920
+Estimated energy consumption per FFT run: 52.4676 joules/ 0.0200214 watt-hours.
+
